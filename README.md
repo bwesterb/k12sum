@@ -9,7 +9,7 @@ Install
 -------
 
 ```
-$ go install github.com/bwesterb/k12sum
+$ go install github.com/bwesterb/k12sum@latest
 ```
 
 Create checksum
